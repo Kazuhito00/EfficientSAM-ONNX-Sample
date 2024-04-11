@@ -1,6 +1,5 @@
 # EfficientSAM-ONNX-Sample
-[yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) のエンコーダー/デコーダーをONNXに変換し、推論するサンプルです。<br>
-推論スクリプトは、前処理、後処理を含めPyTorch依存の処理は使用しない方針です。
+[yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) をColaboraotry上でONNX推論するサンプルです。<br>
 
 https://github.com/Kazuhito00/EfficientSAM-ONNX-Sample/assets/37477845/5dd6f004-2be2-4b39-a4d2-2b8f2beb576b
 
